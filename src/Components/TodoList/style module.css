@@ -1,0 +1,20 @@
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.completed {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    width: 90%;
+}
+
+#checkbox {
+    width: 22px;
+    height: 20px;
+    align-items: center;
+    margin-bottom: 3px;
+}
